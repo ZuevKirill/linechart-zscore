@@ -4,6 +4,7 @@ import App from './App.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
+    <a href="https://github.com/ZuevKirill/linechart-zscore">github</a>
     <App />
   </StrictMode>,
 )
